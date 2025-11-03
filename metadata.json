@@ -1,0 +1,5 @@
+{
+  "name": "Farcaster Bio Generator",
+  "description": "Generate creative Farcaster bios with the power of AI. This Mini App reads your Farcaster profile and suggests personalized bios based on your chosen style.",
+  "requestFramePermissions": []
+}
